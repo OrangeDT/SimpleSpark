@@ -22,6 +22,7 @@ object SparkPi {
         }.reduce((a,b) => a + b)
       println("Pi is roughly " + 4.0*count/n)
       sc.stop()
+      //master
     }
 }
 
