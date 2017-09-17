@@ -34,8 +34,8 @@
 采用的技术点sparkstreaming + mysql
 twitter开放了实时的信息流，通过实时的获取流信息得到最新的热点事件，最新的热点人物等。
 
-###七：练习使用git
-
+### 七：练习使用git
+练习使用branch
 
 
 
